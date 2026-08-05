@@ -1,5 +1,5 @@
 <!-- ============================================= -->
-<!-- PREMIUM GITHUB PROFILE README -->
+<!-- PREMIUM FOUNDER GITHUB PROFILE README -->
 <!-- Oree Nu'maan -->
 <!-- ============================================= -->
 
@@ -12,30 +12,31 @@
 
 
 <h1 align="center">
-👋 Welcome to my GitHub Profile
+👋 Hi, I'm Oree Nu'maan
 </h1>
 
 
 <h3 align="center">
 
 🚀 Founder & CEO @ JumanaWeb  
-💻 Full-Stack .NET Developer  
+💻 Full-Stack Software Engineer  
 🏢 ERP & SaaS Platform Builder  
-🔐 Secure Software Development Enthusiast
+🔐 Secure Software Development Enthusiast  
+🇲🇺 Mauritius
 
 </h3>
 
 
 <p align="center">
 
-Building modern software solutions that help businesses automate, scale and grow.
+Building modern software solutions that help businesses automate, scale, and grow.
 
 </p>
 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Founder+of+JumanaWeb;Full-Stack+.NET+Developer;Enterprise+ERP+Developer;Building+SaaS+Platforms;Passionate+About+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Founder+of+JumanaWeb;Full-Stack+.NET+Engineer;ERP+%26+SaaS+Platform+Builder;Business+Software+Developer;Creating+Digital+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,7 +46,7 @@ Building modern software solutions that help businesses automate, scale and grow
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
 
 </div>
 
@@ -55,152 +56,175 @@ Building modern software solutions that help businesses automate, scale and grow
 # 👨‍💻 About Me
 
 
-Hello! I'm **Oree Nu'maan**, a Full-Stack .NET Developer and Founder of **JumanaWeb**, a software company focused on creating premium digital solutions for businesses.
-
-I specialize in:
-
-- Enterprise web applications
-- ERP systems
-- SaaS platforms
-- Business automation
-- REST APIs
-- Database architecture
-- Secure application development
-- Modern UI/UX experiences
+I am a Full-Stack Software Engineer and Founder from Mauritius 🇲🇺 focused on designing and building software products that solve real business problems.
 
 
-My mission:
+My work focuses on creating:
 
-> Transform business ideas into powerful digital products.
+
+🏢 Business Management Platforms  
+🚀 SaaS Applications  
+🌐 Custom Web Applications  
+📊 Business Intelligence Solutions  
+⚡ Automation Systems  
+🔐 Secure Software Solutions  
+
+
+I believe software is not only about writing code.
+
+Great software requires:
+
+
+✔ Understanding business challenges
+
+✔ Designing scalable solutions
+
+✔ Creating excellent user experiences
+
+✔ Building secure and maintainable systems
+
+
+My goal is to transform ideas into reliable digital products that create real value.
 
 
 ---
 
-# 🏢 About JumanaWeb
+# 🏢 Founder & CEO — JumanaWeb
 
 
 ## 🚀 Building Technology For Businesses
 
 
-JumanaWeb helps companies digitally transform through:
+I founded **JumanaWeb**, a software company focused on helping businesses digitally transform through modern technology.
 
 
-🌐 Professional Websites  
-🛒 E-Commerce Platforms  
-🏢 Enterprise ERP Systems  
-📱 Custom Web Applications  
-📊 Business Dashboards  
-🤖 AI-Powered Solutions  
-🔐 Secure Software Development  
-📈 Digital Growth Solutions  
+We build:
 
 
-Our goal is to build software that is:
+🌐 Custom Web Applications
 
-✅ Scalable  
-✅ Secure  
-✅ Modern  
-✅ User-Friendly  
-✅ Business Focused  
+🏢 ERP & Business Management Systems
 
+🚀 SaaS Platforms
 
----
+🛒 E-Commerce Solutions
 
-# 💼 Professional Journey
+📊 Business Dashboards
 
+🤖 AI-Powered Business Tools
 
-```
-2024
-│
-├── Started developing professional software projects
-│
-├── Built experience with .NET technologies
-│
-│
-2025
-│
-├── Diploma in IT (Cybersecurity)
-│
-├── Mauritius Telecom Internship
-│
-├── Junior Full-Stack .NET Developer
-│
-├── Worked with Business Applications
-│
-│
-2026
-│
-├── Founder & CEO of JumanaWeb
-│
-├── Building Enterprise Platforms
-│
-└── Developing SaaS Solutions
-```
+🔐 Secure Software Solutions
 
 
 ---
 
-# 🛠️ Technology Stack
+## Our Approach
 
 
-## Programming Languages
+We combine:
+
+
+💻 Software Engineering
+
+🏢 Business Understanding
+
+🎨 User Experience
+
+🔐 Security Practices
+
+📈 Product Thinking
+
+
+to create solutions that help companies operate smarter.
+
+
+---
+
+# 🧠 Engineering Philosophy
+
+
+> "Software is not only about writing code. It is about understanding problems, designing solutions, and creating technology that improves businesses."
+
+
+My development approach:
+
+
+### Build With Purpose
+
+Every feature should solve a real problem.
+
+
+### Design For Scale
+
+Applications should be structured for future growth.
+
+
+### Prioritize Security
+
+Security should be part of development, not an afterthought.
+
+
+### Create Great Experiences
+
+Software should be powerful and enjoyable to use.
+
+
+---
+
+# 🛠 Technology Stack
+
+
+## Backend Engineering
 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,js,ts,java,python,php,html,css"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
 
 </p>
 
 
----
-
-## Backend Development
+Core Technologies:
 
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs"/>
-
-</p>
-
-
-Technologies:
-
+- C#
 - ASP.NET Core
-- REST API
+- Web API
 - Entity Framework Core
 - LINQ
+- REST API Design
 - JWT Authentication
-- Identity
+- ASP.NET Identity
 - Clean Architecture
 
 
 ---
 
-## Frontend Development
+## Frontend Engineering
 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,tailwind,bootstrap"/>
 
 </p>
 
 
 Technologies:
+
 
 - Angular
 - Blazor
 - React
 - Next.js
 - TypeScript
-- Tailwind CSS
+- JavaScript
+- Responsive UI Development
 
 
 ---
 
-## Database
+## Database & Data Platforms
 
 
 <p>
@@ -212,8 +236,10 @@ Technologies:
 
 Experience:
 
+
 - Microsoft SQL Server
-- Database Design
+- Database Architecture
+- Entity Relationships
 - Query Optimization
 - Stored Procedures
 - Data Modeling
@@ -221,7 +247,22 @@ Experience:
 
 ---
 
-## Tools & Platforms
+## Business Intelligence
+
+
+Tools:
+
+
+- Power BI
+- SSRS Reporting
+- Data Visualization
+- Business Dashboards
+- Reporting Automation
+
+
+---
+
+## Development Tools
 
 
 <p>
@@ -231,41 +272,156 @@ Experience:
 </p>
 
 
+Tools & Platforms:
+
+
+- Git & GitHub
+- Visual Studio
+- VS Code
+- Docker
+- Microsoft Azure
+- Postman
+- Figma
+
+
 ---
 
-# 🚀 Featured Projects
+# 🏗 Software Architecture & Engineering
 
 
-## 🌞 Solar Expert ERP
+Areas of expertise:
 
 
-Enterprise management system built for solar companies.
+✔ Clean Architecture
+
+✔ Layered Architecture
+
+✔ REST API Architecture
+
+✔ Multi-Tenant SaaS Architecture
+
+✔ Database Design
+
+✔ SOLID Principles
+
+✔ Design Patterns
+
+✔ Secure Coding Practices
+
+✔ Maintainable Software Design
 
 
-### Features:
+---
 
-✅ Customer Management  
-✅ CRM  
-✅ Project Management  
-✅ Quotations  
-✅ Contracts  
-✅ Invoices  
-✅ Payments  
-✅ Inventory  
-✅ Technician Management  
-✅ Calendar  
-✅ Reports  
-✅ Dashboard  
+---
+
+# 🚀 Products & Platforms Built
 
 
-Stack:
+I focus on creating software products that solve real operational challenges for businesses.
 
-```
+
+My projects combine:
+
+
+🏢 Business Logic
+
+💻 Modern Software Architecture
+
+📊 Data Intelligence
+
+🔐 Security
+
+🎨 User Experience
+
+
+---
+
+# ☀️ Solar Expert ERP
+
+
+## Business Management Platform For Solar Companies
+
+
+Solar Expert is a complete business management solution designed to help solar companies manage their operations from customer acquisition to project completion.
+
+
+## Core Capabilities
+
+
+### Customer & Sales Management
+
+✔ Customer Relationship Management
+
+✔ Lead Tracking
+
+✔ Customer Information Management
+
+✔ Sales Pipeline Management
+
+
+### Project Management
+
+✔ Solar Project Tracking
+
+✔ Installation Workflow
+
+✔ Project Status Management
+
+✔ Team Coordination
+
+
+### Financial Operations
+
+✔ Quotations
+
+✔ Contracts
+
+✔ Invoice Management
+
+✔ Payment Tracking
+
+
+### Operations Management
+
+✔ Inventory Management
+
+✔ Supplier Management
+
+✔ Technician Management
+
+✔ Intervention Scheduling
+
+✔ Calendar Management
+
+
+### Reporting & Analytics
+
+✔ Business Dashboards
+
+✔ Performance Reports
+
+✔ Operational Insights
+
+✔ Data Visualization
+
+
+## Technology Stack
+
+
+
+Backend:
 ASP.NET Core Web API
+
+Frontend:
 Angular
-SQL Server
+
+Database:
+Microsoft SQL Server
+
+Analytics:
 Power BI
-```
+
 
 
 ---
@@ -273,32 +429,76 @@ Power BI
 # 🌍 TourismHub Pro
 
 
-Enterprise tourism management ecosystem.
+## Enterprise Tourism Management Ecosystem
 
 
-Features:
+TourismHub Pro is a complete digital ecosystem designed for tourism businesses to manage customers, operations, bookings, and business intelligence.
 
 
-🏨 Booking Platform  
-👥 Customer Management  
-📅 Tour Management  
-📱 QR Experience  
-📊 Analytics  
-💰 Finance Management  
-👨‍💼 Staff Management  
-🤖 AI Assistant  
-🏢 Multi-Tenant Architecture  
+The goal is not only booking management, but creating a complete platform for tourism companies.
 
 
-Stack:
+## Core Capabilities
 
-```
+
+### Customer Experience
+
+✔ Customer Portal
+
+✔ Booking Management
+
+✔ Digital Experiences
+
+✔ QR Code Experiences
+
+
+### Business Operations
+
+✔ Tour Management
+
+✔ Staff Management
+
+✔ Customer Management
+
+✔ Workflow Automation
+
+
+### Business Intelligence
+
+✔ Analytics Dashboard
+
+✔ Performance Tracking
+
+✔ Financial Insights
+
+
+### Advanced Platform Features
+
+✔ Multi-Tenant SaaS Architecture
+
+✔ AI Assistant Integration
+
+✔ Scalable Platform Design
+
+
+## Technology Stack
+
+
+
+Backend:
+ASP.NET Core
+
+Frontend:
 Next.js
 React
 TypeScript
-ASP.NET Core
-SQL Server
-```
+
+Database:
+Microsoft SQL Server
+
+Architecture:
+Multi-Tenant SaaS
+
 
 
 ---
@@ -306,74 +506,409 @@ SQL Server
 # 🛒 Premium E-Commerce Platform
 
 
-Modern enterprise e-commerce solution.
+## Modern Commerce Experience
 
 
-Features:
+A premium e-commerce platform designed to combine:
 
-- Product Management
-- Customer Accounts
-- Order Management
-- Inventory
-- Payments
-- Discounts
-- Analytics
-- Admin Portal
+
+🛍 Customer Experience
+
+⚙ Business Management
+
+📊 Analytics
+
+🚀 Scalability
+
+
+## Features
+
+
+✔ Product Management
+
+✔ Customer Accounts
+
+✔ Order Management
+
+✔ Inventory Management
+
+✔ Discounts & Promotions
+
+✔ Payment Workflows
+
+✔ Analytics Dashboard
+
+✔ Admin Management Portal
+
+
+## Focus
+
+
+Creating an e-commerce experience closer to modern SaaS platforms rather than traditional online stores.
 
 
 ---
 
-# 🧠 Areas Of Expertise
+# 🏢 Additional Systems Built
+
+
+## 🏝 Valley Des Couleurs Booking Backoffice
+
+
+Tourism administration platform designed to simplify booking operations.
+
+
+Capabilities:
+
+
+✔ Booking Management
+
+✔ Customer Management
+
+✔ Backoffice Operations
+
+✔ Administrative Workflows
+
+
+---
+
+## 🎫 Nabridas Ticket System
+
+
+Business ticket management platform.
+
+
+Capabilities:
+
+
+✔ Ticket Creation
+
+✔ Issue Tracking
+
+✔ User Management
+
+✔ Workflow Management
+
+
+---
+
+## ⚙ Intervention Management System
+
+
+Operational management solution for handling business interventions.
+
+
+Capabilities:
+
+
+✔ Technician Management
+
+✔ Intervention Scheduling
+
+✔ Status Tracking
+
+✔ Operational Monitoring
+
+
+---
+
+# 🔐 Secure Software Development
+
+
+Security is integrated into my development approach.
+
+
+Areas of focus:
+
+
+✔ Secure Coding Practices
+
+✔ Authentication & Authorization
+
+✔ JWT Security
+
+✔ Role-Based Access Control
+
+✔ OWASP Principles
+
+✔ Application Security Awareness
+
+✔ Data Protection Practices
+
+
+---
+
+# 🚀 SaaS & Product Vision
+
+
+My long-term vision is to build scalable software products that can serve multiple industries and markets.
+
+
+Areas I am passionate about:
+
+
+## 🏢 Industry-Specific SaaS Platforms
+
+
+Creating specialized software solutions designed around specific business workflows.
+
+
+Examples:
+
+
+☀️ Solar Industry Platforms
+
+🌍 Tourism Technology
+
+🏗 Construction Management
+
+🏥 Healthcare Systems
+
+🏪 Business Operations
+
+
+---
+
+## 🤖 AI-Powered Business Solutions
+
+
+Exploring ways AI can improve:
+
+
+✔ Business Automation
+
+✔ Decision Making
+
+✔ Customer Experience
+
+✔ Operational Efficiency
+
+
+---
+
+## ☁ Cloud-Based Applications
+
+
+Building modern applications using:
+
+
+✔ Cloud Architecture
+
+✔ Containerization
+
+✔ Scalable Infrastructure
+
+✔ Continuous Deployment
+
+
+---
+
+# ⚙ Engineering Focus
+
+
+Currently focusing on improving:
+
+
+🚀 Advanced .NET Architecture
+
+🏗 Domain Driven Design
+
+🐳 Docker & Containerization
+
+⚙ CI/CD Automation
+
+☁ Cloud Development
+
+🤖 AI Integration
+
+🏢 Enterprise Application Design
+
+🔄 Microservices Architecture
+
+
+---
+
+# 🌎 Vision
+
+
+My goal is to build technology products that:
+
+
+✓ Solve meaningful business problems
+
+✓ Scale beyond local markets
+
+✓ Help companies become more efficient
+
+✓ Combine innovation with practical solutions
+
+
+Through JumanaWeb, I aim to create a technology company that builds software ecosystems, not only individual applications.
+
+
+---
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<br><br>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+<br><br>
+
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+---
+
+# 🏆 GitHub Achievements
+
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+
+</div>
+
+
+---
+
+# 🐍 Contribution Activity
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+
+</div>
+
+
+---
+
+# 📈 What I Build
+
+
+<div align="center">
 
 
 <table>
 
 <tr>
-<td>
 
-💻 Full Stack Development
+<td align="center">
+
+🏢
+
+<br>
+
+<b>Business Software</b>
+
+<br>
+
+ERP & Management Systems
 
 </td>
 
-<td>
 
-🏢 ERP Systems
+<td align="center">
+
+🚀
+
+<br>
+
+<b>SaaS Platforms</b>
+
+<br>
+
+Scalable Products
 
 </td>
+
+
+<td align="center">
+
+💻
+
+<br>
+
+<b>Web Applications</b>
+
+<br>
+
+Modern Experiences
+
+</td>
+
 
 </tr>
 
 
 <tr>
 
-<td>
 
-🔐 Secure Coding
+<td align="center">
 
-</td>
+🔐
 
-<td>
+<br>
 
-📊 Business Intelligence
+<b>Secure Systems</b>
 
-</td>
+<br>
 
-</tr>
-
-
-<tr>
-
-<td>
-
-🌐 SaaS Platforms
+Reliable Software
 
 </td>
 
-<td>
 
-⚡ API Development
+<td align="center">
+
+📊
+
+<br>
+
+<b>Data Solutions</b>
+
+<br>
+
+Business Intelligence
 
 </td>
+
+
+<td align="center">
+
+🤖
+
+<br>
+
+<b>AI Solutions</b>
+
+<br>
+
+Future Technology
+
+</td>
+
 
 </tr>
 
@@ -381,104 +916,7 @@ Features:
 </table>
 
 
----
-
-# 📚 Currently Learning
-
-
-🚀 Advanced .NET Architecture
-
-☁ Microsoft Azure
-
-🐳 Docker
-
-⚙ CI/CD
-
-🏗 Microservices
-
-🤖 AI Integration
-
-📐 Domain Driven Design
-
-🔥 Cloud Native Development
-
-
----
-
-# 🎯 Future Goals
-
-
-```
-✓ Become a Solution Architect
-
-✓ Build international SaaS products
-
-✓ Grow JumanaWeb globally
-
-✓ Create enterprise software ecosystems
-
-✓ Contribute to open-source projects
-
-✓ Help businesses digitally transform
-```
-
-
----
-
-# 📊 GitHub Statistics
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-
----
-
-# 🏆 GitHub Trophy
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
-
----
-
-# 🐍 Contribution Snake
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-
----
-
-# 💡 Developer Philosophy
-
-
-> "Software is not only about writing code. It is about understanding problems, designing solutions, and creating value."
+</div>
 
 
 ---
@@ -486,25 +924,44 @@ Features:
 # 🤝 Let's Connect
 
 
-<p align="center">
+<div align="center">
 
 
-💼 Founder — JumanaWeb
+🚀 Founder & CEO — JumanaWeb
 
-<br>
 
-📍 Mauritius
+<br><br>
 
-<br>
+
+🇲🇺 Mauritius
+
+
+<br><br>
+
 
 💻 GitHub
 
-<br>
+<br><br>
+
 
 📧 YOUR_EMAIL
 
 
-</p>
+</div>
+
+
+---
+
+# 💡 Final Thought
+
+
+<div align="center">
+
+
+> "The best software does not only solve technical problems. It creates better ways for people and businesses to work."
+
+
+</div>
 
 
 ---
@@ -512,7 +969,16 @@ Features:
 <div align="center">
 
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
+
+
+<br>
+
+
+If you are interested in software, technology, or building innovative products, feel free to connect.
+
+
+<br><br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
