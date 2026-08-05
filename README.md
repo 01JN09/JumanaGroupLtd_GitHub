@@ -19,7 +19,7 @@
 <h3 align="center">
 
 🚀 Founder & CEO @ JumanaWeb  
-💻 Full-Stack Software Engineer  
+💻 Full-Stack .NET Engineer & Product Builder
 🏢 ERP & SaaS Platform Builder  
 🔐 Secure Software Development Enthusiast  
 🇲🇺 Mauritius
@@ -674,7 +674,7 @@ Areas of focus:
 
 ---
 
-# 🚀 SaaS & Product Vision
+# 🚀 Building The Future With SaaS & AI
 
 
 My long-term vision is to build scalable software products that can serve multiple industries and markets.
@@ -803,6 +803,30 @@ My focus is delivering:
 
 ✔ Long-term software solutions
 
+---
+
+# ⭐ Featured Repository
+
+
+## 🏢 Jumana Group GitHub
+
+
+Official GitHub organization repository showcasing the technology ecosystem behind Jumana Group.
+
+
+Focused on:
+
+
+✔ Software Engineering
+
+✔ Digital Solutions
+
+✔ Business Technology
+
+✔ Product Development
+
+
+🔗 github.com/01JN09/JumanaGroupLtd_GitHub
 
 ---
 
@@ -964,6 +988,9 @@ Future Technology
 
 
 🚀 Founder & CEO @ Jumana Group
+
+<br><br>
+
 💻 Founder of JumanaWeb (Technology Division)
 
 
@@ -976,7 +1003,7 @@ Future Technology
 <br><br>
 
 
-💻 GitHub: github.com/01JN09
+💻 GitHub: github.com/01JN09/JumanaGroupLtd_GitHub
 
 <br><br>
 
