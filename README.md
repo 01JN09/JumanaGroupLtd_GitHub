@@ -46,7 +46,7 @@ Building modern software solutions that help businesses automate, scale, and gro
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=01JN09&style=for-the-badge"/>
 
 </div>
 
@@ -140,6 +140,25 @@ to create solutions that help companies operate smarter.
 
 ---
 
+## 🌐 JumanaWeb Ecosystem
+
+
+JumanaWeb is growing into a technology ecosystem combining:
+
+
+💻 Software Development
+
+🎨 Creative Design
+
+📈 Digital Marketing
+
+👕 Branding & Printing Solutions
+
+
+Helping businesses build their complete digital presence from technology to growth.
+
+---
+
 # 🧠 Engineering Philosophy
 
 
@@ -168,6 +187,29 @@ Security should be part of development, not an afterthought.
 
 Software should be powerful and enjoyable to use.
 
+
+---
+
+# 💼 Professional Expertise
+
+
+I specialize in building business applications using modern software engineering practices.
+
+
+My experience includes:
+
+
+✔ Designing backend APIs
+
+✔ Building scalable web applications
+
+✔ Creating ERP workflows
+
+✔ Developing database-driven systems
+
+✔ Implementing secure authentication
+
+✔ Transforming business requirements into software solutions
 
 ---
 
@@ -227,17 +269,11 @@ Technologies:
 ## Database & Data Platforms
 
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-</p>
-
-
 Experience:
 
 
 - Microsoft SQL Server
+- Entity Framework Core
 - Database Architecture
 - Entity Relationships
 - Query Optimization
@@ -313,12 +349,12 @@ Areas of expertise:
 
 ---
 
----
-
-# 🚀 Products & Platforms Built
+# 🚀 Products & Platforms Developed
 
 
-I focus on creating software products that solve real operational challenges for businesses.
+I develop professional software solutions and platforms for businesses, focusing on scalability, automation, security, and operational efficiency.
+
+Many of these solutions are developed as private commercial projects and are not publicly available due to business confidentiality.
 
 
 My projects combine:
@@ -544,7 +580,7 @@ A premium e-commerce platform designed to combine:
 ## Focus
 
 
-Creating an e-commerce experience closer to modern SaaS platforms rather than traditional online stores.
+"Creating a modern commerce ecosystem that combines customer experience, automation, analytics, and business operations."
 
 
 ---
@@ -706,7 +742,7 @@ Building modern applications using:
 # ⚙ Engineering Focus
 
 
-Currently focusing on improving:
+Currently engineering and exploring:
 
 
 🚀 Advanced .NET Architecture
@@ -745,8 +781,28 @@ My goal is to build technology products that:
 
 Through JumanaWeb, I aim to create a technology company that builds software ecosystems, not only individual applications.
 
-
 ---
+
+# 🔒 Private Enterprise Development
+
+
+Most of my commercial projects are developed privately for businesses and organizations.
+
+
+Due to confidentiality and intellectual property protection, source code is not publicly available.
+
+
+My focus is delivering:
+
+
+✔ Production-ready applications
+
+✔ Scalable architectures
+
+✔ Secure business systems
+
+✔ Long-term software solutions
+
 
 ---
 
@@ -755,52 +811,32 @@ Through JumanaWeb, I aim to create a technology company that builds software eco
 
 <div align="center">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=01JN09&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-<br><br>
-
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=01JN09&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 
 ---
 
-# 🏆 GitHub Achievements
+# 🌟 Professional Focus
 
 
-<div align="center">
+Building software products around:
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+🏢 Business Automation
 
+🚀 SaaS Platforms
 
-</div>
+📊 Data-Driven Solutions
 
+🔐 Secure Applications
 
----
-
-# 🐍 Contribution Activity
-
-
-<div align="center">
-
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-
-</div>
-
+🌍 Digital Transformation
 
 ---
 
@@ -927,7 +963,8 @@ Future Technology
 <div align="center">
 
 
-🚀 Founder & CEO — JumanaWeb
+🚀 Founder & CEO @ Jumana Group
+💻 Founder of JumanaWeb (Technology Division)
 
 
 <br><br>
@@ -939,12 +976,12 @@ Future Technology
 <br><br>
 
 
-💻 GitHub
+💻 GitHub: github.com/01JN09
 
 <br><br>
 
 
-📧 YOUR_EMAIL
+📧 Gmail: JumanaWeb0109@gmail.com
 
 
 </div>
