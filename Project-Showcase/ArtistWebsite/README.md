@@ -1,10 +1,6 @@
 # 🎨 WildRose Artist
 
 <p align="center">
-  <img src="assets/logo.png" width="170" alt="WildRose Artist Logo">
-</p>
-
-<p align="center">
 Creating timeless artwork, personalized gifts, and handcrafted pieces that turn moments into memories.
 </p>
 
