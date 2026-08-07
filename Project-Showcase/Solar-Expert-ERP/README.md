@@ -1,4 +1,4 @@
-# ☀️ SolarExpert ERP Suite
+# ☀️ The Complete Operating System for Solar Businesses
 
 **Transforming the way solar businesses operate.**
 
