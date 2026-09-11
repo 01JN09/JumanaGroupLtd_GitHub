@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ============================================= -->
 <!-- FOUNDER GITHUB PROFILE README -->
 <!-- Oree Nu'maan -->
@@ -986,4 +986,3 @@ If you are interested in software, technology, or building innovative products, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
 </div>
-```
