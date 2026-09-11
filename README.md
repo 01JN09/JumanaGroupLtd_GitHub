@@ -1,5 +1,5 @@
 <!-- ============================================= -->
-<!-- PREMIUM FOUNDER GITHUB PROFILE README -->
+<!-- FOUNDER GITHUB PROFILE README -->
 <!-- Oree Nu'maan -->
 <!-- ============================================= -->
 
@@ -19,9 +19,9 @@
 <h3 align="center">
 
 🚀 Founder & CEO @ JumanaWeb  
-💻 Full-Stack .NET Engineer & Product Builder
+💻 Full-Stack .NET Engineer & Software Architect
 🏢 ERP & SaaS Platform Builder  
-🔐 Secure Software Development Enthusiast  
+🔐 Secure Software Development
 🇲🇺 Mauritius
 
 </h3>
@@ -29,7 +29,7 @@
 
 <p align="center">
 
-Building modern software solutions that help businesses automate, scale, and grow.
+Building modern software systems that help businesses automate, operate, scale, and grow.
 
 </p>
 
@@ -56,35 +56,34 @@ Building modern software solutions that help businesses automate, scale, and gro
 # 👨‍💻 About Me
 
 
-I am a Full-Stack Software Engineer and Founder from Mauritius 🇲🇺 focused on designing and building software products that solve real business problems.
+I am a Full-Stack Software Engineer, Software Architect, and Founder from Mauritius 🇲🇺, focused on designing and building software products that solve real business problems.
 
+I founded JumanaWeb, a technology company focused on software development, business applications, digital solutions, and technology products.
 
-My work focuses on creating:
+My work sits at the intersection of:
 
+🏢 Business & Enterprise Software
+🚀 SaaS & Product Development
+💻 Full-Stack Engineering
+🏗 Software Architecture
+📊 Data & Business Intelligence
+🤖 AI & Automation
+🔐 Secure Software Development
 
-🏢 Business Management Platforms  
-🚀 SaaS Applications  
-🌐 Custom Web Applications  
-📊 Business Intelligence Solutions  
-⚡ Automation Systems  
-🔐 Secure Software Solutions  
-
-
-I believe software is not only about writing code.
+I believe software is not simply about writing code.
 
 Great software requires:
 
+✔ Understanding the business problem
+✔ Designing the right architecture
+✔ Building reliable and maintainable systems
+✔ Creating intuitive user experiences
+✔ Considering security from the beginning
+✔ Designing for future growth
 
-✔ Understanding business challenges
+My goal is to transform ideas, requirements, and business challenges into reliable digital products that create measurable value.
 
-✔ Designing scalable solutions
-
-✔ Creating excellent user experiences
-
-✔ Building secure and maintainable systems
-
-
-My goal is to transform ideas into reliable digital products that create real value.
+> "I don't just build software. I build systems around how businesses actually work."
 
 
 ---
@@ -95,11 +94,10 @@ My goal is to transform ideas into reliable digital products that create real va
 ## 🚀 Building Technology For Businesses
 
 
-I founded **JumanaWeb**, a software company focused on helping businesses digitally transform through modern technology.
+I founded **JumanaWeb**, a software company focused on helping businesses transform their operations through modern software and digital technology.
 
 
 We build:
-
 
 🌐 Custom Web Applications
 
@@ -109,11 +107,19 @@ We build:
 
 🛒 E-Commerce Solutions
 
-📊 Business Dashboards
+📊 Business Intelligence & Dashboards
 
 🤖 AI-Powered Business Tools
 
-🔐 Secure Software Solutions
+⚡ Workflow & Automation Systems
+
+🔐 Secure Business Applications
+
+🔗 APIs & Backend Systems
+
+The objective is not simply to deliver software.
+
+It is to build technology that helps businesses operate better, make better decisions, automate repetitive processes, and prepare for future growth.
 
 
 ---
@@ -124,7 +130,7 @@ We build:
 We combine:
 
 
-💻 Software Engineering
+💻 Software Engineering and Architecture
 
 🏢 Business Understanding
 
@@ -132,10 +138,12 @@ We combine:
 
 🔐 Security Practices
 
+📊 Data & Analytics
+
 📈 Product Thinking
 
 
-to create solutions that help companies operate smarter.
+to create technology solutions that are practical, maintainable, and designed around real operational needs.
 
 
 ---
@@ -143,8 +151,9 @@ to create solutions that help companies operate smarter.
 ## 🌐 JumanaWeb Ecosystem
 
 
-JumanaWeb is growing into a technology ecosystem combining:
+JumanaWeb is growing as the technology and software development side of a broader business ecosystem.
 
+The ecosystem brings together:
 
 💻 Software Development
 
@@ -154,38 +163,36 @@ JumanaWeb is growing into a technology ecosystem combining:
 
 👕 Branding & Printing Solutions
 
-
-Helping businesses build their complete digital presence from technology to growth.
+The vision is to help businesses build and grow their digital presence through a combination of technology, design, marketing, and business solutions.
 
 ---
 
 # 🧠 Engineering Philosophy
 
 
-> "Software is not only about writing code. It is about understanding problems, designing solutions, and creating technology that improves businesses."
+> "Software is not only about writing code. It is about understanding problems, designing solutions, and creating technology that improves the way businesses operate."
 
 
-My development approach:
+My development approach is built around four principles:
 
 
 ### Build With Purpose
 
-Every feature should solve a real problem.
-
+Every feature should have a purpose and solve a meaningful problem.
 
 ### Design For Scale
 
-Applications should be structured for future growth.
+Applications should be structured with future growth, maintainability, and extensibility in mind.
 
 
 ### Prioritize Security
 
-Security should be part of development, not an afterthought.
+Security should be considered throughout the development lifecycle rather than treated as an afterthought.
 
 
 ### Create Great Experiences
 
-Software should be powerful and enjoyable to use.
+Powerful software should still be intuitive, accessible, and enjoyable to use.
 
 
 ---
@@ -193,23 +200,34 @@ Software should be powerful and enjoyable to use.
 # 💼 Professional Expertise
 
 
-I specialize in building business applications using modern software engineering practices.
+I specialize in designing and building business applications and digital platforms using modern software engineering practices.
 
 
 My experience includes:
 
-
 ✔ Designing backend APIs
 
-✔ Building scalable web applications
+✔ Building full-stack web applications
 
-✔ Creating ERP workflows
+✔ Developing ERP and business management workflows
 
-✔ Developing database-driven systems
+✔ Designing database-driven systems
 
-✔ Implementing secure authentication
+✔ Implementing authentication and authorization
 
-✔ Transforming business requirements into software solutions
+✔ Developing role-based systems
+
+✔ Translating business requirements into software
+
+✔ Designing maintainable application architectures
+
+✔ Building dashboards and reporting systems
+
+✔ Integrating automation and intelligent features
+
+✔ Developing solutions for private commercial environments
+
+My approach combines business understanding, engineering discipline, architecture, and security awareness.
 
 ---
 
@@ -228,16 +246,16 @@ My experience includes:
 
 Core Technologies:
 
-
 - C#
 - ASP.NET Core
-- Web API
+- ASP.NET Core Web API
 - Entity Framework Core
 - LINQ
 - REST API Design
 - JWT Authentication
 - ASP.NET Identity
 - Clean Architecture
+- Backend Application Development
 
 
 ---
@@ -254,7 +272,6 @@ Core Technologies:
 
 Technologies:
 
-
 - Angular
 - Blazor
 - React
@@ -262,6 +279,8 @@ Technologies:
 - TypeScript
 - JavaScript
 - Responsive UI Development
+- Component-Based Architecture
+- Modern Web Application Development
 
 
 ---
@@ -279,6 +298,7 @@ Experience:
 - Query Optimization
 - Stored Procedures
 - Data Modeling
+- Business Data Management
 
 
 ---
@@ -294,6 +314,7 @@ Tools:
 - Data Visualization
 - Business Dashboards
 - Reporting Automation
+- Business Intelligence Solutions
 
 
 ---
@@ -325,14 +346,17 @@ Tools & Platforms:
 # 🏗 Software Architecture & Engineering
 
 
-Areas of expertise:
+I have a strong interest in designing software beyond individual features and focusing on how complete systems are structured.
 
+Areas of focus include:
 
 ✔ Clean Architecture
 
 ✔ Layered Architecture
 
 ✔ REST API Architecture
+
+✔ Modular Application Design
 
 ✔ Multi-Tenant SaaS Architecture
 
@@ -342,10 +366,17 @@ Areas of expertise:
 
 ✔ Design Patterns
 
+✔ Authentication & Authorization
+
+✔ Role-Based Access Control
+
 ✔ Secure Coding Practices
 
 ✔ Maintainable Software Design
 
+✔ Scalable Application Architecture
+
+The objective is to create systems that remain understandable and maintainable as their functionality, users, and business requirements grow.
 
 ---
 
@@ -651,11 +682,11 @@ Capabilities:
 # 🔐 Secure Software Development
 
 
-Security is integrated into my development approach.
+Security is an important part of my software engineering approach.
 
+My cybersecurity background influences how I design and develop applications, particularly around authentication, authorization, data protection, and secure application practices.
 
 Areas of focus:
-
 
 ✔ Secure Coding Practices
 
@@ -665,22 +696,30 @@ Areas of focus:
 
 ✔ Role-Based Access Control
 
+✔ ASP.NET Identity
+
 ✔ OWASP Principles
 
 ✔ Application Security Awareness
 
 ✔ Data Protection Practices
 
+✔ Secure API Design
+
+✔ Input Validation & Access Control
+
+I believe security should be considered from the beginning:
+
+Architecture → Authentication → Authorization → Data Protection → Validation → Monitoring
+
 
 ---
 
 # 🚀 Building The Future With SaaS & AI
 
-
 My long-term vision is to build scalable software products that can serve multiple industries and markets.
 
-
-Areas I am passionate about:
+Rather than building only individual applications, I am interested in creating reusable platforms, products, and technology ecosystems.
 
 
 ## 🏢 Industry-Specific SaaS Platforms
@@ -719,6 +758,10 @@ Exploring ways AI can improve:
 
 ✔ Operational Efficiency
 
+✔ Data Analysis
+
+✔ Intelligent Workflows
+
 
 ---
 
@@ -735,6 +778,8 @@ Building modern applications using:
 ✔ Scalable Infrastructure
 
 ✔ Continuous Deployment
+
+✔ Modern Application Hosting
 
 
 ---
@@ -761,6 +806,10 @@ Currently engineering and exploring:
 
 🔄 Microservices Architecture
 
+📦 Modular Application Architecture
+
+These areas represent my continued development as an engineer and software architect.
+
 
 ---
 
@@ -778,30 +827,36 @@ My goal is to build technology products that:
 
 ✓ Combine innovation with practical solutions
 
+✓ Create long-term value
 
-Through JumanaWeb, I aim to create a technology company that builds software ecosystems, not only individual applications.
+Through JumanaWeb, I aim to build a technology company focused not only on individual client applications, but on software products, platforms, and connected technology ecosystems.
+
+> From individual solutions to scalable products. From software development to technology entrepreneurship.
 
 ---
 
 # 🔒 Private Enterprise Development
 
 
-Most of my commercial projects are developed privately for businesses and organizations.
+Many of my commercial projects are developed privately for businesses and organizations.
 
+Due to confidentiality, intellectual property protection, and commercial agreements, source code and internal systems are not publicly available.
 
-Due to confidentiality and intellectual property protection, source code is not publicly available.
-
+Private development allows me to work on real-world business requirements while maintaining appropriate protection for client information and proprietary systems.
 
 My focus is delivering:
 
+✔ Production-Ready Applications
 
-✔ Production-ready applications
+✔ Scalable Architectures
 
-✔ Scalable architectures
+✔ Secure Business Systems
 
-✔ Secure business systems
+✔ Maintainable Codebases
 
-✔ Long-term software solutions
+✔ Practical Digital Solutions
+
+✔ Long-Term Software Solutions
 
 ---
 
@@ -825,6 +880,7 @@ Focused on:
 
 ✔ Product Development
 
+✔ Technology Innovation
 
 🔗 github.com/01JN09/JumanaGroupLtd_GitHub
 
@@ -859,6 +915,8 @@ Building software products around:
 📊 Data-Driven Solutions
 
 🔐 Secure Applications
+
+🤖 AI & Automation
 
 🌍 Digital Transformation
 
